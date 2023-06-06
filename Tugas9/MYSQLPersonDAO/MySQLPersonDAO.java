@@ -3,10 +3,6 @@
 * Nama: Nadiyya Hasaniyyah
 * NIM : 24060121120030
 */
- import java.sql.*;
-
-
-
 import java.sql.*;
 
 public class MySQLPersonDAO implements PersonDAO {
